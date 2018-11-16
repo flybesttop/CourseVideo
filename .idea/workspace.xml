@@ -6,497 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49f64de-596d-40f9-afa5-b2bde2476f4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/Servlet/CourseServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/Servlet/adminServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/Servlet/uploadServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/Servlet/yanzhenmaServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_abstractMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_commentsMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_companyMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_courseMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_course_instrumentMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_course_objectMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_course_videoMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_dictionaryMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_instrumentMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_messageMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_newsMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_objectCourseMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_orderMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_outresumeMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_relationshipsMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_resumeMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_student_courseMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_studentvideoMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_teacherMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_teacher_courseMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_teacher_instrumentMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_userMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_video_assessMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/dao/ac_videocourseMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_abstract.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_comments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_company.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_course.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_course_instrument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_course_object.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_course_video.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_dictionary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_instrument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_message.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_news.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_objectCourse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_order.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_outresume.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_relationships.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_resume.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_student_course.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_studentvideo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_teacher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_teacher_course.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_teacher_instrument.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_user.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_video_assess.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/model/ac_videocourse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/util/Comments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/util/Page.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/util/SensitiveWord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/util/courseChapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/aspectjweaver-1.8.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/commons-dbcp2-2.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/commons-io-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/commons-pool2-2.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/fastjson-1.2.47.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/mybatis-3.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/mysql-connector-java-5.1.40.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-aop-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-aspects-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-batch-core-2.2.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-beans-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-binding-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-context-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-context-support-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-core-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-data-jpa-1.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-expression-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-faces-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-instrument-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-instrument-tomcat-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-amqp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-core-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-event-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-feed-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-file-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-ftp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-groovy-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-http-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-ip-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-jms-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-jmx-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-jpa-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-mail-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-redis-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-rmi-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-scripting-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-security-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-sftp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-stream-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-syslog-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-test-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-twitter-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-ws-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-xml-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-jdbc-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-jms-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-js-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-js-resources-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-messaging-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-orm-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-oxm-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-acl-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-aspects-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-cas-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-config-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-core-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-crypto-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-ldap-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-openid-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-remoting-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-taglibs-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-security-web-3.2.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-test-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-tx-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-web-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-webflow-2.4.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-webmvc-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-webmvc-portlet-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-websocket-4.3.14.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/spring-ws.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/standard.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/lib/zframe-ssi-core.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/fontello/font/fontello.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/fontello/font/fontello.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/fontello/font/fontello.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/images/arrows-ffffff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/images/require.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/images/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/2-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/2-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/2-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/2-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/2-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/2-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/3-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/3-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/3ddb3ea74ed1b336b6886824d5d61c94.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/7ecb2d5971e8f9370e19caa76addbfb0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/banner/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/banner/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/banner/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/banner/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/bg_direction_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/blockquote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/buy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/buy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/flexslider/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/flexslider/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/flexslider/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/flexslider/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/flexslider/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/flexslider/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/head.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/icon-king.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/icon_finish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/springcloud.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/srpingboot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/tx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/video_fill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/image-cp/video_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/learning/icon_finish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/learning/video_fill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/learning/video_greed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/learning/video_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/message.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/morenHeadimg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/noused/1-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/noused/1-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/noused/1-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/noused/1-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/pixel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/poster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/require_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/require_true.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/select.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/setting.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/setting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/setting2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/share-f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/share-p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/share-t.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/slider-nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/slider-nav2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/sms-4.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/stars-red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/stars2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/tf_300x250_v1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/trash/author.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/img/twitterfeed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/font/VideoJS.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/font/VideoJS.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/artifacts/CourseVideo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/CourseVideo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/Servlet/CourseServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/Servlet/adminServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/Servlet/uploadServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/Servlet/yanzhenmaServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_abstractMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_commentsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_companyMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_courseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_course_instrumentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_course_objectMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_course_videoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_dictionaryMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_instrumentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_messageMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_newsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_objectCourseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_orderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_outresumeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_relationshipsMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_resumeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_student_courseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_studentvideoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_teacherMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_teacher_courseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_teacher_instrumentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_userMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_video_assessMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/dao/ac_videocourseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_abstractMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_commentsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_companyMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_courseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_course_instrumentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_course_objectMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_course_videoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_dictionaryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_instrumentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_messageMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_newsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_objectCourseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_orderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_outresumeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_relationshipsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_resumeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_student_courseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_studentvideoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_teacherMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_teacher_courseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_teacher_instrumentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_userMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_video_assessMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/mapping/ac_videocourseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_abstract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_comments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_course.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_course_instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_course_object.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_course_video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_dictionary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_news.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_objectCourse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_outresume.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_relationships.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_resume.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_student_course.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_studentvideo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_teacher_course.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_teacher_instrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_user.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_video_assess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/model/ac_videocourse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/util/CensorWords.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/util/Comments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/util/Page.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/util/SensitiveWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/com/artclub/util/courseChapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/src/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_abstractMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_commentsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_companyMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_courseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_course_instrumentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_course_objectMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_course_videoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_dictionaryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_instrumentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_messageMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_newsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_objectCourseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_orderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_outresumeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_relationshipsMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_resumeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_student_courseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_studentvideoMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_teacherMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_teacher_courseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_teacher_instrumentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_userMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_video_assessMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/mapping/ac_videocourseMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/com/artclub/util/CensorWords.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/classes/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/springMVC-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/News.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/News_content.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/creatcourse.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/learing.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/search.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/selectFreeCourse.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/selectPayCourse.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/userinfo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/userinfo_buy.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/views/video.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/960.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/devices/1000.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/devices/479.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/devices/767.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/fontello/font/fontello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/fontello/fontello.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/jquery.growl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/learning.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/model.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/mystyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/superfish.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/css/video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/1.8.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/LoginAndRegister.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/bootstrap.button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/bootstrap.modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/carouFredSel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/customM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/flexslider-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/jflickrfeed.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/jquery.growl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/learing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/mobilemenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/myJquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/myjavascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/mypassion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/paging.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/select-box.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/superfish.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/timeago.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/tweetable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/js/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/sendmail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video-js-cdn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video-js-cdn.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video.core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video.core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video.core.novtt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video.core.novtt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video.novtt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/alt/video.novtt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/captions.ar.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/captions.en.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/captions.ja.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/captions.ru.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/captions.sv.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/chapters.en.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/descriptions.en.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/elephantsdream/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/shared/example-captions.vtt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/examples/simple-embed/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/font/VideoJS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/ba.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/lang/zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/video-js.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/video-js.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/video.cjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/video.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CourseVideo/web/static/plugin/video/video.min.js" />
+    <list default="true" id="f49f64de-596d-40f9-afa5-b2bde2476f4f" name="Default" comment="CourseVideo_1.0">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CourseVideo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CourseVideo/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../CourseVideo/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -523,8 +34,8 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../CourseVideo/src/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1160">
-              <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+            <state relative-caret-position="60">
+              <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -700,7 +211,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -761,6 +271,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -775,6 +286,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="472" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="471" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="472" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="471" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="177" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="190" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="298" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1221" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1029,12 +556,21 @@
       <workItem from="1542270333663" duration="1988000" />
       <workItem from="1542276149102" duration="808000" />
       <workItem from="1542343491054" duration="1211000" />
-      <workItem from="1542347565908" duration="236000" />
+      <workItem from="1542347565908" duration="1448000" />
+      <workItem from="1542363140932" duration="94000" />
     </task>
+    <task id="LOCAL-00001" summary="CourseVideo_1.0">
+      <created>1542349406286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542349406286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262119000" />
+    <option name="totallyTimeSpent" value="263425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1048,7 +584,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.34868422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1483" y="609" width="407" height="307" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1076,8 +612,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CourseVideo_1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="CourseVideo_1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1451,8 +1017,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../CourseVideo/src/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        <state relative-caret-position="60">
+          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
           <folding />
         </state>
       </provider>
