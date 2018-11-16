@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--<environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC" />
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver" />
+                <property name="url" value="jdbc:mysql://localhost:3306/javaee" />
+                <property name="username" value="root" />
+                <property name="password" value="123456" />
+            </dataSource>
+        </environment>
+    </environments>-->
+    <mappers>
+        <mapper resource="com/artclub/mapping/ac_userMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_abstractMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_commentsMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_courseMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_dictionaryMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_instrumentMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_newsMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_outresumeMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_relationshipsMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_resumeMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_student_courseMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_studentvideoMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_teacherMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_teacher_courseMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_teacher_instrumentMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_video_assessMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_videocourseMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_course_videoMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_course_instrumentMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_course_objectMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_objectCourseMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_relationshipsMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_orderMapper.xml"/>
+        <mapper resource="com/artclub/mapping/ac_messageMapper.xml"/>
+    </mappers>
+</configuration>
